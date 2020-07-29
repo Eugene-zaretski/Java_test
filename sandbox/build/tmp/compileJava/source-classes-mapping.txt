@@ -1,4 +1,4 @@
-ru/qa/pft/sandbox/MyFirstProgram.java
- ru.qa.pft.sandbox.MyFirstProgram
-ru/qa/pft/sandbox/Squar.java
- ru.qa.pft.sandbox.Squar
+ru/stqa/pft/sandbox/MyFirstProgram.java
+ ru.stqa.pft.sandbox.MyFirstProgram
+ru/stqa/pft/sandbox/Square.java
+ ru.stqa.pft.sandbox.Square
