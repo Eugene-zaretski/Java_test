@@ -1,2 +1,4 @@
 ru/qa/pft/sandbox/MyFirstProgram.java
  ru.qa.pft.sandbox.MyFirstProgram
+ru/qa/pft/sandbox/Squar.java
+ ru.qa.pft.sandbox.Squar
